@@ -1,1 +1,2 @@
 # gitskills
+ff && no FF
